@@ -1,22 +1,17 @@
 ---
 layout: default
-title: Case Studies | Akash Shrivastava
 ---
 
-# Technical Case Studies
+# Akash Shrivastava
+**Business Intelligence Engineer @ Amazon**
 
-Detailed breakdowns of architectural challenges and business impact.
-
----
-
-### [1. Enterprise BI Modernization & $2.5M Savings](migration-case-study)
-*Migrating 60+ dashboards to AWS QuickSight and standardizing KPI frameworks.*
-
-### [2. High-Performance ETL Refactoring](pipeline-case-study)
-*Reducing query latency from 25 minutes to 15 seconds via Airflow and SQL optimization.*
-
-### [3. Institutional Data Automation](automation-case-study)
-*Automating 80+ hours of manual reporting weekly for executive leadership.*
+[Home](/) | [Technical Projects](/projects/) | [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
-[← Back to Home](/)
+
+## 🚀 Impact Highlights
+- **$2.5M Annual Savings:** Led migration of 60+ dashboards to Amazon QuickSight.
+- **90% Performance Gain:** Refactored SQL workflows from 25 min to 15 seconds.
+- **93% Pipeline Reduction:** Modernized architecture using Apache Airflow.
+
+[Explore Detailed Case Studies →](/projects/)
